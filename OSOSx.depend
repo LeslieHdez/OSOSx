@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712953997 source:c:\users\hernandez\3d objects\guia 4\ososx\main.cpp
+	<iostream>
+	"OSOSx.h"
+
+1712954084 c:\users\hernandez\3d objects\guia 4\ososx\ososx.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712954084 c:\users\hernandez\3d objects\guia 4\ososx\iapariencia.h
+
